@@ -1,5 +1,7 @@
 # Ola Rides - July
 
+![Image](https://github.com/user-attachments/assets/69b9566e-7fb2-43b7-8ec5-a07dffc07fbb)
+
 ## Overview
 
 This project analyzes the Ola rides dataset for the month of July, containing 100,000 rows of data. The analysis focuses on key metrics such as revenue, cancellation rate, and ratings. The insights are visualized using Power BI to provide an intuitive and interactive report.
